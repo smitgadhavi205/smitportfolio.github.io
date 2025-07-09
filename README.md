@@ -1,4 +1,4 @@
-<div style="background-color:#ffef96; padding:10px;">
+<div style="background-color:#87CEEB; padding:10px;">
   <h1>Hi, I'm Smit Gadhavi 👋</h1>
 </div>
     </text>
