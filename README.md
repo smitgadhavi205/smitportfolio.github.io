@@ -1,7 +1,6 @@
 <div style="background-color:#ffef96; padding:10px;">
-  <h1>Hi, I'm Smit Gadhavi 👋t</h1>
+  <h1>Hi, I'm Smit Gadhavi 👋</h1>
 </div>
-# Hi, I'm Smit Gadhavi 👋
     </text>
   </svg>
 </div>
