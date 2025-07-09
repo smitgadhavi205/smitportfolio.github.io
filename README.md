@@ -1,6 +1,6 @@
 <!-- Animated waving hand gif -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Smit-Gadhavi/Smit-Gadhavi/main/assets/wave.gif" width="100px" />
+  <img src="https://raw.githubusercontent.com/smitportfolio/main/assets/avatar-1.gif" width="100px" />
 </p>
 
 <!-- Gradient background using HTML & SVG -->
