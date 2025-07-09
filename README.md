@@ -1,21 +1,5 @@
-<!-- Animated waving hand gif -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/smitportfolio/main/assets/avatar-1.gif" width="100px" />
-</p>
 
-<!-- Gradient background using HTML & SVG -->
-<div align="center">
-  <svg width="100%" height="200">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#00c6ff;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#0072ff;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="200" fill="url(#grad)" />
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          font-size="30" fill="white" font-family="Arial">
-      Hi, I'm Smit Gadhavi 👋
+      <h1>Hi, I'm Smit Gadhavi 👋</h1>
     </text>
   </svg>
 </div>
